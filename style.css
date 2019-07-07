@@ -1,0 +1,91 @@
+body{
+  background-color: rgb(237, 237, 237);
+ }
+ 
+
+
+ .navbar{
+  max-height: none;
+  padding: inherit;
+  color: white;
+}
+.navbar div{
+  margin: inherit;
+  background-color: white;
+}
+.navbar-brand{
+  color: white;
+  margin-left: 30px;
+  height: 60px;
+  padding: 20px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 140%;
+  background: rgb(12, 184, 167);
+}
+
+ body{
+  background-color:#f3f0f0;
+  font-family: Arial, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 2.0;
+  text-align: justify;
+ }
+ 
+ .container {
+ 
+  background-color: white;
+ 
+ }
+ 
+ .container h1{
+  font-weight: bold;
+  font-size: 300%;
+  color: rgb(12, 184, 167);
+  font-family: Arial, Georgia, Times, 'Times New Roman', serif;
+  padding: 20px;
+  margin-top: 70px;
+  margin-left: 30px;
+  align-content: center;
+ }
+ 
+ p {
+  line-height: 1.8;
+  margin-bottom: 70px;
+ }
+ 
+ .container h2{
+  font-weight: bold;
+  font-size: 200%;
+  color: rgb(12, 184, 167);
+  font-family: Arial, Georgia, Times, 'Times New Roman', serif;
+  padding: 20px;
+  margin-top: 70px;
+  margin-left: 30px;
+ 
+ }
+ 
+ #comparison {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+ }
+ 
+ #comparison h2 {
+  margin-top: 1px;
+ }
+ 
+ #first {
+  margin-left: 30px;
+  width:85%;
+ }
+ 
+ #second {
+  margin-left: 30px;
+  width:85%;
+ }
+ 
+ .dataframe{
+  box-align: center;
+ }
